@@ -60,7 +60,9 @@ Open the Project in NetBeans:**
 # output
 
 ![feet](https://github.com/user-attachments/assets/4757d9af-9470-464c-9bd6-779728be89ab)
+
 ![fahrenheit](https://github.com/user-attachments/assets/b85020a3-9d70-4bb3-b32a-a41841bd2f9c)
+
 ![pounds](https://github.com/user-attachments/assets/16c687a9-79ee-4371-8c51-cb9bb6a1024b)
 
 
