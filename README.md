@@ -56,3 +56,11 @@ Open the Project in NetBeans:**
   # Troubleshooting
 - **Ensure that you enter the unit names exactly as specified (case insensitive). For example, "Feet", "Pounds", "Fahrenheit", "Meters", "Kgs", "Celsius".**
 - **If you receive an "Invalid conversion" message, check that you have entered the units correctly and that the conversion is supported.**
+  
+# output
+
+![feet](https://github.com/user-attachments/assets/4757d9af-9470-464c-9bd6-779728be89ab)
+![fahrenheit](https://github.com/user-attachments/assets/b85020a3-9d70-4bb3-b32a-a41841bd2f9c)
+![pounds](https://github.com/user-attachments/assets/16c687a9-79ee-4371-8c51-cb9bb6a1024b)
+
+
